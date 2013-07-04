@@ -9,7 +9,7 @@ Wieso entstehen Ortsdaten im Mobilfunknetz und was bedeutet das
 
 Struktur der Reihe:
 
-    Thema: Struktur und Funktion des Mobilfunknetzes
+Thema: Struktur und Funktion des Mobilfunknetzes
         Lernaufgabe: Rollenspiel zum Aufbau des Mobilfunknetzes
         Frage: Was sind die Bestandteile des Mobilfunknetzes und was tun diese?
         Frage:Wie wirken die Bestandteile zusammen?
