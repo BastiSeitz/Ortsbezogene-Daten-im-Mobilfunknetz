@@ -1,4 +1,4 @@
-H1 Beschreibung Interaktives Puzzle 
+# Beschreibung Interaktives Puzzle 
 
 
 H2 Was soll gelernt werden?
