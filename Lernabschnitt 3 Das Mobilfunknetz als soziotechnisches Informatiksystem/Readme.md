@@ -2,7 +2,7 @@
 
 
 ##  Was soll gelernt werden?
-   *
+   * 
 
 
    
@@ -11,7 +11,7 @@
    
 
 ## Hintergrundwissen 
-   *
+   * 
 
 
 ## Vorasusetzungen (techn./ organisatorisch)
