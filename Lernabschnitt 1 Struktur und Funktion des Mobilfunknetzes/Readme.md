@@ -5,9 +5,9 @@ H2 Was soll gelernt werden?
 
 H2 Wozu soll es (an dieser Stelle) gelernt werden?
 
-H2 Hintergrundwissen 
+## Hintergrundwissen 
 
-H2 Vorasusetzungen (techn./ organisatorisch)
+### Vorasusetzungen (techn./ organisatorisch)
 
 H2 Benötigte Vorkenntnisse
 
